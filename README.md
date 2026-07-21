@@ -1,4 +1,4 @@
-# Bienvenido a mi Portafolio
+# BIENVENIDO A MI PORTAFOLIO
 ## A CERCA DE MI
 ¡Hola!, mi nombre es gerardo, soy un gran aficionado por el rol de QA Engineer con una experiencia pequeña pero de gran provecho para el área de calidad de software.
 
